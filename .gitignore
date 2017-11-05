@@ -4,3 +4,4 @@ Book/*
 *.txt
 *.jpg
 *.csv
+**/.ipynb_checkpoints/*
