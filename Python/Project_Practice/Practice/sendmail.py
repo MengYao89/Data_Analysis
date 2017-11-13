@@ -34,10 +34,5 @@ receiver = str(input("Plese input the address TO: \n"))
 subject = str(input("Subject is : \n"))
 contents = str(input("Contents: \n"))
 
-# user_name = 'dongchen6698@gmail.com'
-# password = 'dong1990403'
-# receiver = 'chendong6698@gmail.com'
-# subject = 'just test'
-# contents = 'nothing'
 
 send_email(user_name, password, receiver, subject, contents)
