@@ -6,3 +6,4 @@ Book/*
 *.csv
 **/.ipynb_checkpoints
 *.pdf
+**/data/*
